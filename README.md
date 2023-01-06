@@ -1,11 +1,7 @@
 ![KMKCODER](https://user-images.githubusercontent.com/66021442/211045580-fda3aad0-9962-45a0-8bf4-aea3e64af740.png)
 
-<h1 align="center">Hi 👋, I'm Kapembwa Kangali</h1>
+<<h1 align="center">Hi 👋, I'm Kapembwa Kangali</h1>
 <h3 align="center">A passionate Software Engineering Student from Zambia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kmkcoder&label=Profile%20views&color=0e75b6&style=flat" alt="kmkcoder" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmkcoder" alt="kmkcoder" /></a> </p>
 
 - 🌱 I’m currently learning **C# and ASP.NET Core**
 
