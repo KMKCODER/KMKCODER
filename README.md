@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Asset 2@4x](https://user-images.githubusercontent.com/66021442/211041075-b633f297-4007-4174-81d2-094d1c85c1af.png)
+![KMKCODER](https://user-images.githubusercontent.com/66021442/211043435-aaeb2200-45cc-4f2c-a4b5-1f18e260076a.png)
 
 I am Kapembwa Kangali, I am from 
 
