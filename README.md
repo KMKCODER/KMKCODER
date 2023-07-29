@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kmkcoder@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1_3Uyoems-kIxNyughr-7VvQVzwIw3acn?usp=drive_link)
+- 📄 Know about my experiences from my [Resume](https://drive.google.com/drive/folders/1_3Uyoems-kIxNyughr-7VvQVzwIw3acn?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
