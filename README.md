@@ -1,5 +1,4 @@
-![KMKCODER](https://user-images.githubusercontent.com/66021442/211045580-fda3aad0-9962-45a0-8bf4-aea3e64af740.png)
-
+![Asset 6@4x](https://github.com/user-attachments/assets/d1a05269-6646-46cd-b1e0-d4d3db75f028)
 <h1 align="center">Hello 👋, I'm Kapembwa Kangali</h1>
 <h3 align="center">A passionate Software Engineer II</h3>
 
